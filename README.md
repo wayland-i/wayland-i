@@ -1,16 +1,13 @@
-### Hi there 👋
+hi there 👋
 
-<!--
-**wayland-i/wayland-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+my name is ian!
 
-Here are some ideas to get you started:
+i am a software engineer currently working as a system engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+currently working on:
+  a multitrack audio recorder web app
+  my portfolio site
+  eloquent javascript
+  
+how to reach me: ianiversen1@gmail.com
+
