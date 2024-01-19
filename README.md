@@ -1,6 +1,6 @@
 hi there 👋
 
-my name is ian!
+my name is ian
 
 i am a software engineer currently working as a system engineer
 
