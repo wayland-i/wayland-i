@@ -11,4 +11,4 @@ portfolio ⚡️ https://ian-iversen-portfolio.vercel.app/
 
 linkedin 🌎 https://www.linkedin.com/in/ian-iversen/
 
-Multitrack audio recorder 🎤 https://www.loom.com/share/e33548b98d9f4244be1080cc218f91c5
+multitrack audio recorder 🎤 https://www.loom.com/share/e33548b98d9f4244be1080cc218f91c5
