@@ -2,7 +2,7 @@ hi there 👋
 
 my name is ian
 
-i am a software engineer currently working as a system engineer in NYC
+i am a software engineer. i currently working as a system engineer in NYC
 
   
 how to reach me: ianiversen1@gmail.com
